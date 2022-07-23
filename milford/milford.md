@@ -35,19 +35,18 @@ This is the day we go over Mackinnon Pass, which will be the most physically dem
 
 (Not sure if "Leg 1" needs to be separate, there is probably transport direct to Te Anau Downs from Queenstown?)
 
-## Things to organise:
+## Transport to organise:
 
-* Flights to Queenstown prior to Sunday 20th November
-* Transport from Queenstown to Glade Wharf prior to 20th November (times TBD)
-  * Get to Lake Te Anau
+* Flights to Queenstown prior to (or early on) Sunday 20th November
+* Transport from Queenstown to Glade Wharf on 20th November
   * Bus or private transport to Te Anau Downs (30min)
   * Boat trip to Glade Wharf (1h 15min)
 * Transport from Sandfly Point back to Queenstown
   * Boat trop to Milford Sound/Piopiotahi (20min)
   * Bus services back to Te Anau (and on to Queenstown)
-* Flights from Queenstown after Wednesday 23rd November
+* Flights from Queenstown after (or late on) Wednesday 23rd November
 
-Transport must be booked in advance
+Transport must be booked in advance. Some recommended companies that provide transport for milford track:
 
 * [Cheeky Kiwi](https://www.cheekykiwitravel.com/)
 * [EasyHike](https://www.easyhike.co.nz/milford-track-transport/)
@@ -58,9 +57,13 @@ Transport must be booked in advance
 
 ## Getting there
 
+Sunday 20th November
+
 ![transport_map_1.png](images/transport_map_1.png)
 
 ## Getting back
+
+Wednesday 23rd November
 
 ![transport_map_2.png](images/transport_map_2.png)
 

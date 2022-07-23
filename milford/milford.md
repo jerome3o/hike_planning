@@ -51,14 +51,28 @@ Transport must be booked in advance. Some recommended companies that provide tra
 * [Cheeky Kiwi](https://www.cheekykiwitravel.com/)
   * [Queenstown to Te Anau Downs Transfer](https://cheekykiwitravel.rezdy.com/479152/queenstown-to-te-anau-downs-transfer) ($79pp)
   * [Milford Sound to Queenstown Transfer](https://cheekykiwitravel.rezdy.com/449399/milford-sound-to-queenstown-transfer) ($99pp)
-  * [Milford Track Package (boats + bus)](https://cheekykiwitravel.rezdy.com/484051/milford-track-package-from-queenstown-return-by-bus)
+  * [Milford Track Package (boats + bus)](https://cheekykiwitravel.rezdy.com/484051/milford-track-package-from-queenstown-return-by-bus) ($339pp)
     * Manages all transport (Queenstown to Queenstown)
     * This includes some touristy stops and a tour guide
+  * [Milford Track Transport & Tour Package](https://cheekykiwitravel.rezdy.com/449444/milford-track-transport-tour-package) ($307pp)
+    * Not sure what the difference is with the above
+  * [Milford Track Transport from Te Anau Downs - Water taxi only](https://cheekykiwitravel.rezdy.com/484682/milford-track-transport-from-te-anau-downs-water-taxi-only) ($150pp)
+  * [Milford Sound to Te Anau Transfer](https://cheekykiwitravel.rezdy.com/424382/milford-sound-to-te-anau-transfer) ($62pp)
+    * If we have hired cars, we could drive to Te Anau (or Downs) via car, do the hike, then a subset of us take this transfer from Milford Sound to Te Anau, pick up the cars and pick everyone else up.
+  * There are more options on the [site](https://www.cheekykiwitravel.com/transport/) for different partitions of the journey
 * [EasyHike](https://www.easyhike.co.nz/milford-track-transport/)
+  * Confusing and annoying website - I think it's quite expensive
+  * TODO try again if cba
 * [Fiordland Outdoors Company](https://www.fiordlandoutdoors.co.nz/transport-and-experiences/milford-track-transport/)
+  * [Milford Track from Queenstown](https://www.fiordlandoutdoors.co.nz/transport-and-experiences/milford-track-transport/queenstown-to-milford-track/) ($328pp)
+  * [Milford Track from Queenstown, return by car](https://www.fiordlandoutdoors.co.nz/transport-and-experiences/milford-track-transport/queenstown-to-milford-track/#book-now) ($150pp)
+    * Car relocation, includes water taxis
+    * Couldn't find anything for just the water taxis
 * [RealNZ](https://www.realjourneys.co.nz/en/experiences/ferry-services/milford-track-transfers/)
+  * [Milford Track Transfer Package from Queenstown](https://www.realnz.com/en/experiences/ferry-services/milford-track-transfers/) ($327pp)
+  * [Milford Track Transfers (Boat transfer only)](https://www.realnz.com/en/experiences/ferry-services/milford-track-transfers/) ($149pp)
 * [Tracknet](https://www.tracknet.net/tracks/milford)
-* [Trackhopper](https://trackhopper.co.nz/)
+  * [Queenstown return](https://www.tracknet.net/tracks/milford#packages) ($327pp)
 
 ## Getting there
 

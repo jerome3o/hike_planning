@@ -49,6 +49,11 @@ This is the day we go over Mackinnon Pass, which will be the most physically dem
 Transport must be booked in advance. Some recommended companies that provide transport for milford track:
 
 * [Cheeky Kiwi](https://www.cheekykiwitravel.com/)
+  * [Queenstown to Te Anau Downs Transfer](https://cheekykiwitravel.rezdy.com/479152/queenstown-to-te-anau-downs-transfer) ($79pp)
+  * [Milford Sound to Queenstown Transfer](https://cheekykiwitravel.rezdy.com/449399/milford-sound-to-queenstown-transfer) ($99pp)
+  * [Milford Track Package (boats + bus)](https://cheekykiwitravel.rezdy.com/484051/milford-track-package-from-queenstown-return-by-bus)
+    * Manages all transport (Queenstown to Queenstown)
+    * This includes some touristy stops and a tour guide
 * [EasyHike](https://www.easyhike.co.nz/milford-track-transport/)
 * [Fiordland Outdoors Company](https://www.fiordlandoutdoors.co.nz/transport-and-experiences/milford-track-transport/)
 * [RealNZ](https://www.realjourneys.co.nz/en/experiences/ferry-services/milford-track-transfers/)
